@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit Shinde
+- 👋 Hi, I’m @Rohit Dnyanoba Shinde
 - 👀 I’m interested in ... Full Stack Developer 
 - 🌱 I’m currently learning ...Front end
 - 💞️ I’m looking to collaborate on ...
